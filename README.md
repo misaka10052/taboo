@@ -1,1 +1,1 @@
-docs: update view-results-in-terminal.md (#66)
+ultralytics 8.1.32 fix CLIP backwards compatibility (#9253)
