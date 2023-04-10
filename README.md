@@ -1,1 +1,1 @@
-Add object blurring & object cropping modules in Ultralytics docs (#7434)
+Bump nick-invision/retry from 2 to 3 in /.github/workflows (#8023)
