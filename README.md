@@ -1,1 +1,1 @@
-Add https://youtu.be/ie3vLUDNYZo and other YT videos in Docs (#8551)
+Explorer with LanceDB, Actions and Docs updates (#7487)
