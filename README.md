@@ -1,1 +1,1 @@
-Add TF SavedModel Docs Integrations Page (#9162)
+Allow Annotator PIL.Image inputs (#8397)
