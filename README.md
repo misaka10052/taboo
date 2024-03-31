@@ -1,1 +1,1 @@
-Add docs links to all dataset YAMLs (#7360)
+Add HeatMap guide in real-world-projects + Code in Solutions Directory (#6796)
