@@ -1,1 +1,1 @@
-Remove JAX constraints in Exporter (#8309)
+Capitalize OBB acronym (#7383)
