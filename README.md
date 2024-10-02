@@ -1,1 +1,1 @@
-Update fraction arg to employ a random selection (#8234)
+Auto-format by https://ultralytics.com/actions
